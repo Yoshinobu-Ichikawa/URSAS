@@ -18,7 +18,7 @@
 
 ## システム全体イメージ
 
-images/ursas/hero.png
+images/URSAS hero.png.jpg
 
 ```
 images/architecture.png
