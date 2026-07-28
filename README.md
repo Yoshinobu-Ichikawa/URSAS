@@ -18,6 +18,13 @@
 
 ![URSAS Hero](images/URSAS%20hero.png.jpg)
 
+
+## 📚 Contents
+
+- URSASとは
+- 3分でわかるURSAS
+- White Paper
+- Roadmap
 ---
 
 ## URSASとは
@@ -98,3 +105,25 @@ URSASは、「揺れを予測し、乗客へ事前に伝える」ことで、乗
 安全・快適・楽しさを融合し、新しい公共交通体験を実現します。
 
 ![Passenger Experience](images/passenger-experience.jpg.jpg)
+
+
+---
+
+# 📄 White Paper
+
+より詳しい技術仕様や設計思想については、White Paperをご覧ください。
+
+> 🚧 公開準備中（2026年7月31日公開予定）
+
+
+# 🚀 Roadmap
+
+- ✅ Concept Design
+- ✅ White Paper v5.4
+- 🚧 GitHub Public Release
+- 🚧 Prototype Development
+- 🚧 Demonstration
+- 🚧 Academic Publication
+- 🚧 Railway Field Trial
+
+- 
