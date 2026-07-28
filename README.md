@@ -33,15 +33,68 @@ URSASは、この課題に対して「揺れが起こる前に伝える」とい
 
 ---
 
+---
+
 # 3分でわかるURSAS
 
-URSASは、**「揺れを予測し、乗客へ事前に伝える」**という新しい考え方を実現するために、7つのステップで構成されています。
+URSASは、「揺れを予測し、乗客へ事前に伝える」ことで、乗客の **Unexpectedness（不意性）** を低減する鉄道安全支援システムです。
+
+ここでは、その仕組みを7つのステップでご紹介します。
 
 ---
+
 ## STEP 1｜未来の公共交通
 
-未来の公共交通は、目的地へ移動するだけではなく、安全・快適・楽しさを提供する新しい移動空間へ進化します。
+安全・快適・楽しさが融合した、URSASが目指す未来の公共交通です。
 
-![Future Public Transportation](images/hero-interior.jpg)
+![Future Public Transportation](images/hero-interior.jpg.jpg)
 
 ---
+
+## STEP 2｜なぜURSASが必要なのか
+
+現在の鉄道と、URSAS導入後の違いを比較します。
+
+![Before / After](images/before-after.jpg.jpg)
+
+---
+
+## STEP 3｜SCE（Route Risk Sharing）
+
+過去の揺れ履歴を共有し、揺れやすい区間を事前に把握します。
+
+![SCE](images/sce-overview.jpg.jpg)
+
+---
+
+## STEP 4｜DPE（Deceleration Prediction）
+
+列車の減速を予測し、少し早く乗客へ知らせます。
+
+![DPE](images/dpe-overview.jpg.jpg)
+
+---
+
+## STEP 5｜DCPE（Real-time Car-to-Car Prediction）
+
+前方車両の実際の揺れを共有し、ETA（到達予測時間）を算出します。
+
+![DCPE](images/dcpe-overview.jpg.jpg)
+
+---
+
+## STEP 6｜Universal Warning
+
+予測したリスクを、すべての乗客へ分かりやすく伝えます。
+
+![Universal Warning](images/universal-warning1.jpg.jpg)
+
+![Universal Warning Details](images/universal-warning2.jpg.jpg)
+
+---
+
+## STEP 7｜Passenger Experience
+
+安全・快適・楽しさを融合し、新しい公共交通体験を実現します。
+
+![Passenger Experience](images/passenger-experience.jpg.jpg)
