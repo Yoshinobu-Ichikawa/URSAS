@@ -16,14 +16,9 @@
 
 ---
 
-## システム全体イメージ
-
 ![URSAS Hero](images/URSAS%20hero.png.jpg)
-
-```
-images/architecture.png
-```
 
 ---
 
 ## URSASとは
+
