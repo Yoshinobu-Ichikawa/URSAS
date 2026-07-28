@@ -16,7 +16,7 @@
 
 ---
 
-![Future Public Transportation](images/hero-interior.jpg.jpg)
+![URSAS Hero](images/URSAS%20hero.png.jpg)
 
 ---
 
