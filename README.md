@@ -111,10 +111,12 @@ URSASは、「揺れを予測し、乗客へ事前に伝える」ことで、乗
 
 # 📄 White Paper
 
-より詳しい技術仕様や設計思想については、White Paperをご覧ください。
+URSASの設計思想・システム構成・各エンジンの詳細については、
+ホワイトペーパーをご覧ください。
 
-> 🚧 公開準備中（2026年7月31日公開予定）
+📥 [URSAS White Paper v5.4 (PDF)](compressPdf_3_1004374609_589238763.pdf)
 
+---
 
 # 🚀 Roadmap
 
@@ -126,10 +128,3 @@ URSASは、「揺れを予測し、乗客へ事前に伝える」ことで、乗
 - 🚧 Academic Publication
 - 🚧 Railway Field Trial
 
-- 
-# 📄 White Paper
-
-URSASの設計思想・システム構成・各エンジンの詳細については、
-ホワイトペーパーをご覧ください。
-
-📥 [URSAS White Paper v5.4 (PDF)](compressPdf_3_1004374609_589238763.pdf)
