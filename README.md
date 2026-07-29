@@ -128,3 +128,7 @@ URSASの設計思想・システム構成・各エンジンの詳細について
 - 🚧 Academic Publication
 - 🚧 Railway Field Trial
 
+---
+
+URSASは継続的に進化していくプロジェクトです。
+ご意見・ご提案を歓迎します。
