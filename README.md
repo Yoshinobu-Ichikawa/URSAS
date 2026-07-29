@@ -127,3 +127,9 @@ URSASは、「揺れを予測し、乗客へ事前に伝える」ことで、乗
 - 🚧 Railway Field Trial
 
 - 
+# 📄 White Paper
+
+URSASの設計思想・システム構成・各エンジンの詳細については、
+ホワイトペーパーをご覧ください。
+
+📥 [URSAS White Paper v5.4 (PDF)](docs/URSAS_WhitePaper_v5.4.pdf)
