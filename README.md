@@ -12,7 +12,7 @@ Full Technical White Paper (PDF)
 
 Creating time for passengers to prepare before unexpected motion occurs.
 🖼️ URSAS — Universal Rail Safety Alert System
-![URSAS — Universal Rail Safety Alert System](images/URSAS%20hero.png.jpg)
+![URSAS — Universal Rail Safety Alert System](images/ursas-hero-en.jpg)
 
 
 📚 Contents
@@ -48,7 +48,7 @@ The system can be understood through the following seven steps.
 
 STEP 1｜A New Public Transportation Experience
 🖼️ A New Public Transportation Experience
-![A New Public Transportation Experience](images/hero-interior.jpg.jpg)
+![A New Public Transportation Experience](images/hero-interior-en.jpg)
 
 URSAS envisions public transportation in which:
 Safety × Comfort × Experience Value
@@ -57,7 +57,7 @@ The goal is not simply to warn passengers of danger, but to create an environmen
 
 STEP 2｜Why Was URSAS Created?
 🖼️ Why Was URSAS Created?
-![Why Was URSAS Created?](images/before-after.jpg.jpg)
+![Why Was URSAS Created?](images/before-after-en.jpg)
 
 Unexpected motion and sudden deceleration occur during everyday railway operation.
 The greatest difficulty for passengers may not always be the motion itself.
@@ -67,7 +67,7 @@ URSAS seeks to reduce this unexpectedness by providing relevant information slig
 
 STEP 3｜SCE — Statistical Complement Engine
 🖼️ SCE — Statistical Complement Engine
-![SCE — Statistical Complement Engine](images/sce-overview.jpg.jpg)
+![SCE — Statistical Complement Engine](images/sce-overview-en.jpg)
 
 Route Motion-Risk Information Sharing
 SCE uses historical motion data and route characteristics to identify and share information about sections where significant motion is more likely to occur.
@@ -79,7 +79,7 @@ The final Risk Level is determined by the Risk Evaluator.
 
 STEP 4｜DPE — Deceleration Prediction Engine
 🖼️ DPE — Deceleration Prediction Engine
-![DPE — Deceleration Prediction Engine](images/dpe-overview.jpg.jpg)
+![DPE — Deceleration Prediction Engine](images/dpe-overview-en.jpg)
 
 Predicting the Possibility of Rapid Deceleration
 DPE uses current train speed, location information, operational conditions, and historical data to predict the possibility of sudden deceleration or strong braking.
@@ -91,7 +91,7 @@ DPE does not determine the final Risk Level.
 
 STEP 5｜DCPE — Deterministic Chain Prediction Engine
 🖼️ DCPE — Deterministic Chain Prediction Engine
-![DCPE — Deterministic Chain Prediction Engine](images/dcpe-overview.jpg.jpg)
+![DCPE — Deterministic Chain Prediction Engine](images/dcpe-overview-en.jpg)
 
 Observed Motion Sharing and ETA Calculation
 DCPE uses actual Observed Motion detected by a preceding vehicle as a reference.
@@ -103,9 +103,9 @@ Through this vehicle-to-vehicle information-sharing structure, DCPE supports hig
 
 STEP 6｜Risk Evaluator × Tier Core × Universal Warning
 🖼️ Universal Warning
-![Universal Warning — Risk Levels](images/universal-warning1.jpg.jpg)
+![Universal Warning — Risk Levels](images/universal-warning1-en.jpg)
 
-![Universal Warning — Multimodal Warning System](images/universal-warning2.jpg.jpg)
+![Universal Warning — Multimodal Warning System](images/universal-warning2-en.jpg)
 
 
 
@@ -132,7 +132,7 @@ This multimodal approach is designed to communicate essential safety information
 
 STEP 7｜Public Transportation Experience
 🖼️ Public Transportation Experience
-![Public Transportation Experience](images/passenger-experience.jpg.jpg)
+![Public Transportation Experience](images/passenger-experience-en.jpg)
 
 URSAS is not designed to pursue safety alone.
 During normal operation, the same platform can provide passenger-experience functions such as:
