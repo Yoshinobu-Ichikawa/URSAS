@@ -96,6 +96,12 @@ The goal is not simply to warn passengers of danger, but to create an environmen
 
 ## STEP 2｜Why Was URSAS Created?
 
+### The Experience That Inspired URSAS
+
+![Background of the URSAS Concept](images/ursas-concept-background-en.jpg)
+
+### From Unexpected Motion to Advance Awareness
+
 ![Why Was URSAS Created?](images/before-after-en.jpg)
 
 Unexpected motion and sudden deceleration occur during everyday railway operation.
