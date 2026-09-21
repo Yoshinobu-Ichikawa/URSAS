@@ -11,7 +11,7 @@
 **English — You are viewing the English README**
 
 📘 **URSAS 5.4 English White Paper**  
-Full Technical White Paper (PDF)
+[**Full Technical White Paper (PDF)**](docs/whitepaper/URSAS_White_Paper_v5.4_EN.pdf)
 
 **日本語 README — Japanese Version**
 
