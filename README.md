@@ -270,7 +270,9 @@ The white paper includes detailed descriptions of:
 - G-Sync
 - Public Transportation Experience
 
-### 📥 URSAS 5.4 English White Paper (PDF)
+### 📥 URSAS 5.4 English White Paper
+
+[**Full Technical White Paper (PDF)**](docs/whitepaper/URSAS_White_Paper_v5.4_EN.pdf)
 
 ---
 
