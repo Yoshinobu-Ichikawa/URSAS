@@ -16,7 +16,7 @@
 **日本語 README — Japanese Version**
 
 📕 **URSAS 5.4 Japanese White Paper**  
-日本語版技術白書 (PDF)
+[日本語版技術白書（PDF）](docs/whitepaper/URSAS_White_Paper_v5.4_JA.pdf)
 
 ---
 
