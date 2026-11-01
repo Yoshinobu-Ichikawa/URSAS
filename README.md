@@ -1,3 +1,13 @@
+# URSAS — Universal Rail Safety Alert System
+URSAS is an independent technical concept proposed by Yoshinobu Ichikawa to improve passenger safety in public transportation through advance warnings of unexpected train motion and sudden deceleration.
+
+**Project:** URSAS 5.4
+
+**Technical White Paper:** Available in Japanese and English
+
+**Author:** Yoshinobu Ichikawa / 市川 芳伸
+
+**LinkedIn:** www.linkedin.com/in/yoshinobu-ichikawa-0a8252448
 # URSAS
 
 ## Universal Rail Safety Alert System
